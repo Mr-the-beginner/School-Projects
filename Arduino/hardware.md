@@ -91,7 +91,3 @@ Each button has **4 pins**, but you only need one pair of pins (the diagonal one
   - One pin to the corresponding Arduino pin (6, 7, 8, 9, 10).
   - Same pin to GND through a 10kΩ pull-down resistor.
   - Other button pin left unconnected.
-
----
-
-Once the hardware is fully wired, let me know, and we’ll move on to coding the reaction game!
